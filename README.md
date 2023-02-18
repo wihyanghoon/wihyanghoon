@@ -12,11 +12,11 @@
 ##### 느리더라도 멈추지는 않고 계속 앞으로 나아가겠습니다.
 
 ###### Frontend
-  ![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=red)
-  ![javascript](https://img.shields.io/badge/javascript-ffffff?style=for-the-badge&logo=javascript)
-  ![typescript](https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=typescript)
-  ![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react)
+  ![HTML5](https://img.shields.io/badge/HTML5-#E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-#1572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoColor=white)
+  ![javascript](https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+  ![typescript](https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-#61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ###### Backend
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
