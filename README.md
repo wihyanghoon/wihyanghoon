@@ -13,9 +13,9 @@
 
 ###### Frontend
   ![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS3)
+  ![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=CSS)
   ![javascript](https://img.shields.io/badge/javascript-ffffff?style=for-the-badge&logo=javascript)
-  ![typescript](https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=javascript)
+  ![typescript](https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=typescript)
   ![React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react)
 ###### Backend
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
