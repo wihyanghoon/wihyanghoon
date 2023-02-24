@@ -11,7 +11,7 @@
 ##### 단점은 최대한 보안하려고 공부하고 있습니다.
 ##### 느리더라도 멈추지는 않고 계속 앞으로 나아가겠습니다.
 
-###### Frontend
+###### stack
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
