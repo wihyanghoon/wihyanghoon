@@ -24,7 +24,7 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br />
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?wihyanghoon=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wihyanghoon=anuraghazra&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?wihyanghoon=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)  
+  
 </div>
