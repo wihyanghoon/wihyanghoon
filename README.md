@@ -25,6 +25,6 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wihyanghoon&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wihyanghoon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wihyanghoon&hide_progress=true)](https://github.com/wihyanghoon/github-readme-stats)
 </div>
