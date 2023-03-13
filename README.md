@@ -26,5 +26,5 @@
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=name&hide=contribs,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wihyanghoon&hide_progress=true)](https://github.com/wihyanghoon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=name&hide_progress=true)](https://github.com/wihyanghoon/github-readme-stats)
 </div>
