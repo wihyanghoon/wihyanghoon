@@ -26,3 +26,8 @@
   ![webpack](https://img.shields.io/badge/webpack-000000?style=for-the-badge&logo=webpack.js&logoColor=white)
   ![scss](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass.js&logoColor=white)
 </div>
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wihyanghoon&hide_progress=true)
