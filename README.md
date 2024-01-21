@@ -34,6 +34,8 @@
 ### DBMS
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
+### Webpack
+[![My Skills](https://skillicons.dev/icons?i=webpack,babel)](https://skillicons.dev)
 
 #### learning
 [![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
