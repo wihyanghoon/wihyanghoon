@@ -29,7 +29,7 @@
 </div>
 
 ### CORE
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,emotion,redux,nodejs,express,react,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,emotion,redux,nodejs,express,react,next,figma,postman,vs)](https://skillicons.dev)
 
 ### DBMS
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
