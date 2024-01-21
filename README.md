@@ -3,11 +3,11 @@
 <table style="width:846px;">
   <tr>
     <td>
-    **skill**
       
+#### skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,emotion,redux,nodejs,express,react,next,figma,postman,vscode,mongodb,webpack,babel&perline=6)](https://skillicons.dev)
 
-**study**
+#### stud
 [![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
     </td>
     <td>
