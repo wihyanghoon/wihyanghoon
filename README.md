@@ -13,4 +13,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wihyanghoon&hide_progress=true)
 
-<img style="width:100%; display:block;" src="https://github.com/wihyanghoon/wihyanghoon/assets/66665468/4dd7fcf7-6156-4a26-b138-0b6dcc30b98c"/>
+<img style="width:100px; display:block;" src="https://github.com/wihyanghoon/wihyanghoon/assets/66665468/4dd7fcf7-6156-4a26-b138-0b6dcc30b98c"/>
