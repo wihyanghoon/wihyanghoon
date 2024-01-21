@@ -28,7 +28,7 @@
   ![scss](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass.js&logoColor=white)
 </div>
 
-
+[![My Skills](https://skillicons.dev/icons?i=html](https://skillicons.dev)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wihyanghoon&hide_progress=true)
