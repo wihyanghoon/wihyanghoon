@@ -7,12 +7,6 @@
 ### CORE
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,emotion,redux,nodejs,express,react,next,figma,postman,vscode,mongodb,webpack,babel&perline=3)](https://skillicons.dev)
 
-### DBMS
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-
-### Webpack
-[![My Skills](https://skillicons.dev/icons?i=webpack,babel,postamn)](https://skillicons.dev)
-
 #### learning
 [![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
 
