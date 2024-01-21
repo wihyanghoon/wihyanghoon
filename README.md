@@ -11,7 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
     </td>
     <td>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wihyanghoon&hide_progress=true)
+      [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gidgns1995)](https://solved.ac/gidgns1995/)
     </td>
   </tr>
 </table>
