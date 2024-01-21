@@ -3,11 +3,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wihyanghoon&hide_progress=true)
 
 <ul style="display:flex;">
-  <li style="width:50%;">
-    ### skill
+<li style="width:50%;">
+### skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,emotion,redux,nodejs,express,react,next,figma,postman,vscode,mongodb,webpack,babel&perline=3)](https://skillicons.dev)
 
 #### learning
 [![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
-  </li>
+</li>
 </ul>
