@@ -6,7 +6,8 @@
 <table>
   <tr>
     <td>
-      [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,emotion,redux,nodejs,express,react,next,figma,postman,vscode,mongodb,webpack,babel&perline=3)](https://skillicons.dev)
+      
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,emotion,redux,nodejs,express,react,next,figma,postman,vscode,mongodb,webpack,babel&perline=3)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
     </td>
