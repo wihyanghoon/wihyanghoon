@@ -29,6 +29,6 @@
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,react,next)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,recoil,redux)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wihyanghoon&hide_progress=true)
