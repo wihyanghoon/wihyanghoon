@@ -7,7 +7,7 @@
 #### skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,emotion,redux,nodejs,express,react,next,figma,postman,vscode,mongodb,webpack,babel&perline=6)](https://skillicons.dev)
 
-#### stud
+#### study
 [![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
     </td>
     <td>
