@@ -28,7 +28,15 @@
   ![scss](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass.js&logoColor=white)
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,react,next)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,recoil,redux)](https://skillicons.dev)
+### CORE
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,jquery,ts,emotion,nodejs,express,react,next)](https://skillicons.dev)
+
+### DBMS
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+
+#### learning
+[![My Skills](https://skillicons.dev/icons?i=c,java,mysql)](https://skillicons.dev)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wihyanghoon&hide_progress=true)
